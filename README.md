@@ -18,13 +18,13 @@ python fsa_example.py
 
 ```bibtex
 @inproceedings{
-xu2023humanly,
-title={Humanly Certifying Superhuman Classifiers},
-author={Qiongkai Xu and Christian Walder and Chenchen Xu},
-booktitle={The Eleventh International Conference on Learning Representations },
-year={2023},
-url={https://openreview.net/forum?id=X5ZMzRYqUjB}
+  xu2023humanly,
+  title={Humanly Certifying Superhuman Classifiers},
+  author={Qiongkai Xu and Christian Walder and Chenchen Xu},
+  booktitle={The Eleventh International Conference on Learning Representations },
+  year={2023},
+  url={https://openreview.net/forum?id=X5ZMzRYqUjB}
 }
 
 ```
-[We](qiongkai.xu@unimelb.edu.au) would be pleased tolearn about your research if you have analysed and ovserved other *'superhuman'* classification models.
+[We](qiongkai.xu@unimelb.edu.au) would be pleased to learn about your research if you have analysed and observed any *'superhuman'* classification models.
