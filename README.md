@@ -1,6 +1,6 @@
 # Superhuman-Eval
 
-The project for ***On the Certification of Classifiers for Outperforming Human Annotators*** (ICLR '23, spotlight).
+The project for ***Humanly Certifying Superhuman Classifiers*** (ICLR 2023, spotlight).
 
 ### Installation
 **Requirement**: PyTorch, Numpy, etc.
@@ -18,10 +18,10 @@ python fsa_example.py
 
 ```bibtext
 @inproceedings{
-xu2023on,
-title={On the Certification of Classifiers for Outperforming Human Annotators},
+xu2023humanly,
+title={Humanly Certifying Superhuman Classifiers},
 author={Qiongkai Xu and Christian Walder and Chenchen Xu},
-booktitle={International Conference on Learning Representations},
+booktitle={The Eleventh International Conference on Learning Representations},
 year={2023},
 url={https://openreview.net/forum?id=X5ZMzRYqUjB}
 }
