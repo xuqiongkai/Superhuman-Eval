@@ -11,8 +11,11 @@ git clone https://github.com/xuqiongkai/Superhuman-Eval.git
 
 ### Evaluation
 **Step 0:** The evaluation requires a dataset with $N$ samples, each with multiple annotations and a predicted label by a classifier.
+
 **Step 1 [Calculate Upper Bound $\mathcal U_N$]:** the accuracy between annotators, basically inter-annotator agreement.
+
 **Step 2 [Calculate Lower Bound $\mathcal L_N$]:** the 'traditional' accuracy, by matching classifier's outputs and aggregated human annotations (voting is recommanded).
+
 **Step 3 [Calculate the Confidence Score]:** run our script.
 ```
 python fsa_example.py
